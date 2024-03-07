@@ -15,6 +15,8 @@ const getPlayerChoice = prompt("Choose Rock, Scissor or Paper");
 const playerSelection = getPlayerChoice.toLowerCase();
 
 console.log(playerSelection)
+
+new FileSystem
     
 
 
