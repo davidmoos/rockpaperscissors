@@ -1,1 +1,1 @@
-# rockpaperscissors
+# rockpaperscissors This is the first JavaScript Program from Odin Project. The Goal is to create a Rock, Scissor, Paper Game.
